@@ -9,6 +9,13 @@
 
 ## Setup and configuration
 
+ 
+
+|   |   |
+|---|---|
+| <img width="50" style="float: right;" src="https://user-images.githubusercontent.com/9275193/211962217-cc1a21ef-1b67-4ea2-b97d-6f41f3cdfb5f.png">  | Make sure you don't place the Xmas Tree on your Raspberry Pi backwards! Doing so you may damage the circuit.  |
+
+
 <img width="624" alt="xmas-rgb-tree-pihut-balena" src="https://user-images.githubusercontent.com/173156/209328704-5167655f-67ac-41cf-bb6f-b80cc59f72f5.png">
 
 Get the Xmas tree PCB and solder the 2 lateral pieces (it works as well if you connect straightforward the PCB). Once soldered (or connected) it should look like this image below.
